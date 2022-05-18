@@ -1,4 +1,4 @@
-import cart from "../js/cart";
-import second from "../js/second";
+import cart from "./modules/cart";
+import second from "./modules/second";
 cart()
 second()
